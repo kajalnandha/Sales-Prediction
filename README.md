@@ -184,4 +184,3 @@ The model explains approximately 81.6% of the variance in sales based on TV adve
 
 --- 
 
-This README is ready to go on GitHub! Let me know if you need further tweaks or additions.
