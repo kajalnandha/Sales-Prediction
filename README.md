@@ -15,9 +15,8 @@ This project focuses on analyzing the Advertising Dataset and building a simple 
 ---
 
 ## Author  
-**Name:** Himel Sarder  
-**Email:** info.himelcse@gmail.com  
-**GitHub:** [Himel-Sarder](https://github.com/Himel-Sarder)  
+**Name:** Kajal Nandha  
+**Email:** kaajunanda@gmail.com  
 
 ---
 
